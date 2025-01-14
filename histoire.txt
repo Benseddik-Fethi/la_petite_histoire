@@ -17,4 +17,8 @@ Car!!! Il etait un petit navire, il etait un petit navire qui n'avait ja-ja-jama
 
 Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire.
 
-LEs etudiants , motivés , n'avait a cet instant que deux objectif : comprendre les cours , trouver un stage 
+Les etudiants , motivés , n'avait a cet instant que deux objectif : comprendre les cours , trouver un stage
+
+~ Lorry
+
+Mais Fethi en avait décidé autrement, il déclara : "Je n'ensegnerais le JAVA qu'à ceux capable de me battre à League Of Legends !"
