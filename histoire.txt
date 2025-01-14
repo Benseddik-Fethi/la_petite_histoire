@@ -1,14 +1,26 @@
+- isa
+
+Comme à chaque printemps, la grande lessive se prépara. Tout le personnel était mis à contribution.
+La grande lessive incluait la lessive des linges de maison, mais aussi le nettoyage approfondi des pièces de la demeure, le taillage des arbres et arbustes du jardin, ainsi que le réveil du jardin.
+Ce dernier monopolisait l'équipe de jardiniers dans son entier. C'est qu'il y avait du travail pour rendre l'éclat du jardin. il fallait sarcler, bêcher, râtisser trois hectares de pelouse et de plates bandes.
+
 ~ Pierre-Alex
+
 
 Notre histoire commence en ce doux mois de décembre. 15 personnes, plus ou moins jeunes, se sont réunies autour de plusieurs tables pour réussir un seul et même objectif : Faire la JAVA ! Heuu.. Non ! Apprendre la JAVA ! (oui ça c'est mieux..)… Cette tâche est plus ardue qu'il n'y parait, et au bout de quelques jours, déjà deux d'entre eux avaient disparus.. Nul ne les revit.. Mais pour bien comprendre toute cette histoire, plongeons nous plus en détails.
 
 
 ~ Davy
 
-Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire.
+Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire. Je rajoute ca pour ajouter un petit pull request.
+Car!!! Il etait un petit navire, il etait un petit navire qui n'avait ja-ja-jamais naviguer
 
--- LE
-L'histoire continue, et les apprenants doivent trouver chacun un stage. Les recherches sont compliquées car les 
-entreprise proposent uniquement des stages de 6 mois...
+LEs etudiants , motivés , n'avait a cet instant que deux objectif : comprendre les cours , trouver un stage 
 
 
+~ Leïla 
+Après avoir résolu tous les conflits possibles et ajoutés par des collègues espiègles, l'histoire peut se poursuivre. Nous sommes maintenant au mois de janvier. 
+
+~ Lorry
+
+Mais Fethi en avait décidé autrement, il déclara : "Je n'ensegnerais le JAVA qu'à ceux capable de me battre à League Of Legends !"
