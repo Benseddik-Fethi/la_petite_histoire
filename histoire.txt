@@ -5,5 +5,5 @@ Notre histoire commence en ce doux mois de décembre. 15 personnes, plus ou moin
 
 ~ Davy
 
-Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire.
+Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire. Je rajoute ca pour ajouter un petit pull request.
 Car!!! Il etait un petit navire, il etait un petit navire qui n'avait ja-ja-jamais naviguer
