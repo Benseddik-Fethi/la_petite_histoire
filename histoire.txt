@@ -1,4 +1,11 @@
+- steve
+
+Il était une fois un petit chat nommé Moka, qui vivait dans une charmante maison au bord d'un lac scintillant.
+Moka était un chat curieux, toujours à l'affût de nouvelles aventures.
+Un jour, alors qu'il se promenait près de l'eau, il aperçut un papillon aux ailes colorées qui dansait dans l'air.
+
 - isa
+
 
 Comme à chaque printemps, la grande lessive se prépara. Tout le personnel était mis à contribution.
 La grande lessive incluait la lessive des linges de maison, mais aussi le nettoyage approfondi des pièces de la demeure, le taillage des arbres et arbustes du jardin, ainsi que le réveil du jardin.
@@ -15,12 +22,18 @@ Notre histoire commence en ce doux mois de décembre. 15 personnes, plus ou moin
 Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire. Je rajoute ca pour ajouter un petit pull request.
 Car!!! Il etait un petit navire, il etait un petit navire qui n'avait ja-ja-jamais naviguer
 
+Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire.
+voici comment rendre folle Leila car elle va avoir des conflits
+
 LEs etudiants , motivés , n'avait a cet instant que deux objectif : comprendre les cours , trouver un stage 
 
 
 ~ Leïla 
 Après avoir résolu tous les conflits possibles et ajoutés par des collègues espiègles, l'histoire peut se poursuivre. Nous sommes maintenant au mois de janvier. 
+Les etudiants , motivés , n'avait a cet instant que deux objectif : comprendre les cours , trouver un stage
 
 ~ Lorry
 
 Mais Fethi en avait décidé autrement, il déclara : "Je n'ensegnerais le JAVA qu'à ceux capable de me battre à League Of Legends !"
+
+la petite farce pour steve
