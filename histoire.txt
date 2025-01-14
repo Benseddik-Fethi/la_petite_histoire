@@ -12,6 +12,9 @@ Notre histoire commence en ce doux mois de décembre. 15 personnes, plus ou moin
 
 ~ Davy
 
+Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire. Je rajoute ca pour ajouter un petit pull request.
+Car!!! Il etait un petit navire, il etait un petit navire qui n'avait ja-ja-jamais naviguer
+
 Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire.
 voici comment rendre folle Leila car elle va avoir des conflits
 
@@ -20,3 +23,8 @@ LEs etudiants , motivés , n'avait a cet instant que deux objectif : comprendre 
 
 ~ Leïla 
 Après avoir résolu tous les conflits possibles et ajoutés par des collègues espiègles, l'histoire peut se poursuivre. Nous sommes maintenant au mois de janvier. 
+Les etudiants , motivés , n'avait a cet instant que deux objectif : comprendre les cours , trouver un stage
+
+~ Lorry
+
+Mais Fethi en avait décidé autrement, il déclara : "Je n'ensegnerais le JAVA qu'à ceux capable de me battre à League Of Legends !"
