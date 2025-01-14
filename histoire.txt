@@ -6,3 +6,9 @@ Notre histoire commence en ce doux mois de décembre. 15 personnes, plus ou moin
 ~ Davy
 
 Tout commence le 16 décembre, un individus submergé (rien a voir avec les merges de Git) par l'algo a décidé de quitter le navire.
+
+-- LE
+L'histoire continue, et les apprenants doivent trouver chacun un stage. Les recherches sont compliquées car les 
+entreprise proposent uniquement des stages de 6 mois...
+
+
